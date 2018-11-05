@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Scoreboard
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Scoreboard\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Scoreboard()
+comment1.text=\r\n\ This\ makes\ the\ scoreboard\ actually\ run.\ without\ this\ code\r\n\ th\ scoreboard\ would\ be\ useless.\ It\ also\ sets\ where\ the\ \r\n\ scoreboard\ image\ is\ on\ the\ screen.\r\n
+comment2.params=
+comment2.target=void\ addToScore()
+comment2.text=\r\n\ This\ makes\ the\ point\ system\ run.\ this\ makes\ the\ points\ go\r\n\ up\ every\ time\ the\ catcher\ class\ touches\ the\ leaf\ class.\r\n\ This\ makes\ it\ so\ when\ you\ reach\ 10\ points\ a\ soud\ effect\r\n\ goes\ off\ and\ the\ game\ stops.\r\n
+numComments=3

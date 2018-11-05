@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=AutumnWorld
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ FallWorld\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=AutumnWorld()
+comment1.text=\r\n\ This\ makes\ the\ size\ of\ the\ world\ appear\ on\ the\ window.\ The\ \r\n\ class\ a\ catcher\ class\ added\ on\ the\ window.\ This\ class\ makes\ \r\n\ the\ scoreboard\ set\ in\ the\ top\ left\ corner\ of\ the\ window.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ This\ makes\ the\ leaf\ class\ spawn\ in\ random\ spots\ at\ the\ top\ \r\n\ of\ the\ screen\ on\ the\ window.\r\n
+comment3.params=
+comment3.target=void\ update()
+numComments=4

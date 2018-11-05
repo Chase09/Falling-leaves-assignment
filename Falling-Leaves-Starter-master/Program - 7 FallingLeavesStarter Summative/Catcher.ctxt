@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Catcher
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ This\ will\ make\ it\ so\ when\ you\ press\ the\ left\ key\ the\ \r\n\ catcher\ will\ move\ left.\ Also\ when\ you\ press\ the\ right\ key\ \r\n\ the\ catcher\ will\ move\ right.\r\n
+comment2.params=
+comment2.target=void\ checkForFood()
+comment2.text=\r\n\ This\ makes\ it\ so\ when\ the\ catcher\ touches\ the\ leaves,\ the\r\n\ \r\n
+numComments=3
